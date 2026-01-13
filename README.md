@@ -28,5 +28,5 @@ I'm  a computing student passionate about building practical software projects a
 * A N<sup>th</sup> term Fibonacci Finder - implemented using matrix exponentiation (<a href="https://github.com/AH11037/fibonacciFAST">See Here</a>)
 * A unit converter web app - converts units quickly in your browser (<a href="https://github.com/AH11037/UnitConverter">See Here</a>)
 * A CLI task tracker - manage your daily tasks directly from the terminal (<a href = "https://github.com/AH11037/TaskTrackerCli">See Here</a>)
-* And many more smaller projects exploring other concepts
+* And many more smaller projects exploring other concepts<br>
 I love problem-solving, building interactive tools, and experimenting with new technologies.
